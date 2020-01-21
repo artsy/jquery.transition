@@ -1,0 +1,26 @@
+{
+  "name": "jquery.transition",
+  "version": "0.1.1",
+  "author": "",
+  "description": "A jQuery plugin that adds callbacks for CSS3 transitions.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzucconi/jquery.transition.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dzucconi/jquery.transition/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "https://raw.github.com/dzucconi/jquery.transition/master/LICENSE.txt"
+    }
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "jquery": "*",
+    "benv": "*"
+  }
+}
